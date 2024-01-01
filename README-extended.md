@@ -1,6 +1,6 @@
 ### Hello world!👋
 
-I'm Maxime currently working at [Harvest Groupe](https://www.harvest.fr/le-groupe/) as a software engineer.
+I'm Maxime currently working at [Harvest Groupe](https://www.harvest.fr/le-groupe/) as a software engineer. 
 
 ## Skills
 
@@ -31,13 +31,34 @@ I'm Maxime currently working at [Harvest Groupe](https://www.harvest.fr/le-group
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+#### 👩‍💻 IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+#### 🧐 Linters & Formatters
+
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
+
+#### 🔒 Security Platforms
+
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+#### 💻 Terminal
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+#### ⏱️ Workflow Platforms
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
 ---
 
-<img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxmeTrn&theme=dark&layout=donut" alt="Maxime's GitHub stats" />
-
----
-
-[Extended README here](README-extended.md).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaxmeTrn/MaxmeTrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
